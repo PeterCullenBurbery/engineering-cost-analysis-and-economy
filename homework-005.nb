@@ -4558,7 +4558,7 @@ Cell["Stick with pond system because 0.903335<1.", "Text",
  CellChangeTimes->{{3.937159454966921*^9, 
   3.93715946860392*^9}},ExpressionUUID->"f01f9f6e-073f-0547-bbd8-\
 63d97333f1cd"]
-}, Closed]],
+}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -6402,7 +6402,7 @@ Cell[104679, 1969, 329, 8, 28, "Input",ExpressionUUID->"574630ac-d02b-f048-9e94-
 Cell[105011, 1979, 29072, 520, 124, "Output",ExpressionUUID->"2edd2d72-9b2b-e448-a888-ad309c5a757b"]
 }, Open  ]],
 Cell[134098, 2502, 786, 21, 66, "Input",ExpressionUUID->"b6a646ad-2fde-2a43-b83f-9e5e282554ea"],
-Cell[134887, 2525, 1687, 44, 187, "Input",ExpressionUUID->"e8da60e0-5b54-d14a-9c45-567d5b9b85e2"],
+Cell[134887, 2525, 1687, 44, 177, "Input",ExpressionUUID->"e8da60e0-5b54-d14a-9c45-567d5b9b85e2"],
 Cell[136577, 2571, 182, 3, 33, "Text",ExpressionUUID->"bec31327-293e-d54b-b35e-30420e6ed378"],
 Cell[136762, 2576, 230, 5, 28, "Input",ExpressionUUID->"385842df-2fdc-4341-a966-410a527fa1ac"],
 Cell[CellGroupData[{
@@ -6443,9 +6443,9 @@ Cell[238923, 4538, 415, 10, 28, "Input",ExpressionUUID->"ae3bf5a6-2af5-514c-af3f
 Cell[239341, 4550, 195, 3, 32, "Output",ExpressionUUID->"9b021fe2-7afb-9e44-90e3-b9024d210197"]
 }, Open  ]],
 Cell[239551, 4556, 183, 3, 33, "Text",ExpressionUUID->"f01f9f6e-073f-0547-bbd8-63d97333f1cd"]
-}, Closed]],
+}, Open  ]],
 Cell[CellGroupData[{
-Cell[239771, 4564, 150, 3, 52, "Section",ExpressionUUID->"f42d905a-912f-284c-9088-aecb393e6be2"],
+Cell[239771, 4564, 150, 3, 66, "Section",ExpressionUUID->"f42d905a-912f-284c-9088-aecb393e6be2"],
 Cell[239924, 4569, 522, 14, 67, "Input",ExpressionUUID->"07dab5b1-2f14-5d4f-8072-c93242177f72"],
 Cell[240449, 4585, 652, 17, 28, "Input",ExpressionUUID->"b1daa62f-22ea-e043-ac9f-011564cc9225"],
 Cell[CellGroupData[{
